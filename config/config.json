@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/reactpnpasync/ReactpnpasyncWebPart.js",
+      "manifest": "./src/webparts/reactpnpasync/ReactpnpasyncWebPart.manifest.json",
+      "outputPath": "./dist/reactpnpasync.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "reactpnpasyncStrings": "webparts/reactpnpasync/loc/{locale}.js"
+  }
+}

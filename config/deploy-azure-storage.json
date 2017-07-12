@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "spfx-react-pnp-async",
+  "accessKey": "<!-- ACCESS KEY -->"
+}

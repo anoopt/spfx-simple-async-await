@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "spfx-react-pnp-async",
+    "libraryId": "ae24f66a-67c6-45ec-8b1f-9b12790de49b",
+    "environment": "spo"
+  }
+}

@@ -1,0 +1,1 @@
+export { INewsItem } from "./INewsItem";

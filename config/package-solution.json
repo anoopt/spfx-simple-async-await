@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-react-pnp-async-client-side-solution",
+    "id": "ae24f66a-67c6-45ec-8b1f-9b12790de49b",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-react-pnp-async.sppkg"
+  }
+}

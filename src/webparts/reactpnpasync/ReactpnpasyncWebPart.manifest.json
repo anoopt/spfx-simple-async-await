@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "f2f19677-5a7c-449e-bc5d-aa4acabb2e77",
+  "alias": "ReactpnpasyncWebPart",
+  "componentType": "WebPart",
+  "version": "*", // The "*" signifies that the version should be taken from the package.json
+  "manifestVersion": 2,
+
+  /**
+   * This property should only be set to true if it is certain that the webpart does not
+   *  allow arbitrary scripts to be called
+   */
+  "safeWithCustomScriptDisabled": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "f2f19677-5a7c-449e-bc5d-aa4acabb2e77",
+    "group": { "default": "Under Development" },
+    "title": { "default": "reactpnpasync" },
+    "description": { "default": "reactpnpasync description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "reactpnpasync"
+    }
+  }]
+}
